@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Laura Carina Alvarez</h1>
-<h3 align="center">I´m a developer, currently studying Software ingineering.</h3>
+<h3 align="center">I´m a developer
+- 🏫 currently studying Software ingineering/ Computer science.</h3>
 
 - 🌱 I’m currently learning **Complexity theory, and IA.**
+
+-🖋️ Language learner: Native spanish, C1 english, B2 german, A2 French.
 
 - 📫 How to reach me **lcalvarezc@udistrital.edu.co**
 
