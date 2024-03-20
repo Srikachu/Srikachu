@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Complexity theory, and IA.**
 
--🖋️ Language learner: Native spanish, C1 english, B2 german, A2 French.
+- 🖋️ Language learner: Native spanish, C1 english, B2 german, A2 French.
 
 - 📫 How to reach me **lcalvarezc@udistrital.edu.co**
 
